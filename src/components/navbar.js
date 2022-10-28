@@ -3,7 +3,8 @@ import React from "react";
 export default function Navbar(){
     return(
         <div>
-        <ul>
+            <nav>
+        <ul className="nav-items">
             <li>
             <h2>Repo</h2>
             </li>
@@ -21,6 +22,13 @@ export default function Navbar(){
             <li>Teams for Education</li>
             <li>Careers</li>
         </ul>
+        <ul className="nav-btns">
+            <li>
+                <button>Sign up</button>
+                <button>Log in</button>
+            </li>
+        </ul>
+        </nav>
         </div>
     )
 }
