@@ -5,3 +5,35 @@ background-color: rgb(56, 56, 85);
 color: white;
   
 }
+nav{
+  display: flex;
+  background-color: rgb(138, 43, 226);
+}
+nav ul {
+  display: flex;
+  list-style: none;
+}
+nav ul li {
+  padding-right: 10px;
+  font-weight: 500;
+  font-size: 16px;
+}
+nav ul select{
+  background-color: rgb(138, 43, 226);
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+}
+nav ul li button{
+background-color: white;
+border: none;
+margin: 2px;
+font-weight: 600;
+padding: 4px;
+border-radius: 3px;
+}
+.sign-up{
+  background-color: rgb(56, 56, 151);
+  color: white;
+}

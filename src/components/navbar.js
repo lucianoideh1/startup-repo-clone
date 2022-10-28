@@ -5,8 +5,8 @@ export default function Navbar(){
         <div>
             <nav>
         <ul className="nav-items">
-            <li>
-            <h2>Repo</h2>
+            <li className="logo">
+           Repo
             </li>
             <li>
             <select name="select">
@@ -24,7 +24,7 @@ export default function Navbar(){
         </ul>
         <ul className="nav-btns">
             <li>
-                <button>Sign up</button>
+                <button className="sign-up">Sign up</button>
                 <button>Log in</button>
             </li>
         </ul>
