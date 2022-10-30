@@ -37,3 +37,15 @@ border-radius: 3px;
   background-color: rgb(56, 56, 151);
   color: white;
 }
+/* hero component  hero component  hero component  hero component  hero component  hero component  hero component  hero component  hero component */
+.hero-container{
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.get-started-container{
+  display: flex;
+  background-color: rgb(47, 24, 69);
+  flex-flow: column wrap;
+}
