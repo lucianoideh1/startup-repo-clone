@@ -57,6 +57,10 @@ h2{
   font-size: 70px;
   text-align: center;
 }
+.get-started-container p{
+  font-size: 18px;
+  font-weight: 500;
+}
 .get-started-btn{
   width: 110px;
   border: none;
@@ -66,4 +70,5 @@ h2{
   background-color: rgb(56, 56, 151);
   color: white;
   margin-bottom: 50px;
+  padding: 15px 5px;
 }
