@@ -56,10 +56,12 @@ border-radius: 3px;
 h2{
   font-size: 70px;
   text-align: center;
+  color:rgb(230, 230, 230)
 }
 .get-started-container p{
   font-size: 18px;
   font-weight: 500;
+  color: rgb(176, 176, 176);
 }
 .get-started-btn{
   width: 110px;
@@ -71,4 +73,38 @@ h2{
   color: white;
   margin-bottom: 50px;
   padding: 15px 5px;
+}
+/* features component features component features component features component features component features component features component  */
+
+.features-span{
+  font-size: 50px;
+  font-weight: 500;
+  color:rgb(230, 230, 230);
+  display: flex;
+  justify-content: center;
+}
+.features-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+ .feature-item{
+  border: 3px solid rgb(42, 31, 42);
+  background-color: rgb(64, 56, 85);
+  width: 260px;
+  border-radius: 3px;
+  text-align: center;
+  margin-top: 50px;
+} 
+.feature-icon{
+  font-size: 20px;
+  color: blueviolet;
+}
+.feature-title{
+  font-size: 20px;
+  color:rgb(230, 230, 230)
+}
+.feature-p{
+  color: rgb(176, 176, 176);
+  font-size: 17px;
 }
