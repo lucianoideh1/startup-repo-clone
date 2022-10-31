@@ -8,22 +8,22 @@ export default function Features(){
                 <div className="feature-item">
                     <div className="feature-icon">Icon</div>
                     <span className="feature-title">Feature title</span>
-                    <p className="feature-p">lorem ipsum</p>
+                    <p className="feature-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
                 </div>
                 <div className="feature-item">
                     <div className="feature-icon">Icon</div>
                     <span className="feature-title">Feature title</span>
-                    <p className="feature-p">lorem ipsum</p>
+                    <p className="feature-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
                 </div>
                 <div className="feature-item">
                     <div className="feature-icon">Icon</div>
                     <span className="feature-title">Feature title</span>
-                    <p className="feature-p">lorem ipsum</p>
+                    <p className="feature-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
                 </div>
                 <div className="feature-item">
                     <div className="feature-icon">Icon</div>
                     <span className="feature-title">Feature title</span>
-                    <p className="feature-p">lorem ipsum</p>
+                    <p className="feature-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
                 </div>
             </div>
         </section>
