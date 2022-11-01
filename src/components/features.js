@@ -25,6 +25,7 @@ export default function Features(){
                     <span className="feature-title">Feature title</span>
                     <p className="feature-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
                 </div>
+                
             </div>
         </section>
     )
