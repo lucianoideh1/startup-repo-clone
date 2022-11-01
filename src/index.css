@@ -83,6 +83,7 @@ h2{
   color:rgb(230, 230, 230);
   display: flex;
   justify-content: center;
+  margin-top: 50px;
 }
 .features-container{
   display: flex;
@@ -94,18 +95,25 @@ h2{
   background-color: rgb(64, 56, 85);
   width: 260px;
   border-radius: 3px;
-  text-align: center;
   margin-top: 50px;
 } 
 .feature-icon{
   font-size: 20px;
   color: blueviolet;
+  text-align: start;
+  margin-left: 15px;
+
 }
-.feature-title{
+.feature-item span{
   font-size: 20px;
-  color:rgb(230, 230, 230)
+  color:rgb(230, 230, 230);
+  text-align: start;
+  margin-left: 15px;
 }
 .feature-p{
   color: rgb(176, 176, 176);
   font-size: 17px;
+  text-align: start;
+  margin-left: 15px;
+
 }

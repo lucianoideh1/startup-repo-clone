@@ -5,7 +5,6 @@ import Features from './components/features';
 function App() {
   return (
     <div>
-     <h1>Hello World</h1>
      <Navbar />
      <Hero />
      <Features />
