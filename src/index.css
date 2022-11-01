@@ -19,6 +19,10 @@ nav ul li {
   font-weight: 500;
   font-size: 16px;
 }
+nav ul li:hover{
+  color: rgb(255, 237, 99);
+  cursor: pointer;
+}
 nav ul select{
   background-color: rgb(138, 43, 226);
   color: white;
@@ -37,6 +41,11 @@ border-radius: 3px;
 .sign-up{
   background-color: rgb(56, 56, 151);
   color: white;
+}
+nav ul li button:hover{
+  color: rgb(255, 237, 99);
+  background-color: rgb(76, 76, 182);
+  transition: all 1s;
 }
 /* hero component  hero component  hero component  hero component  hero component  hero component  hero component  hero component  hero component */
 .hero-container{
@@ -75,6 +84,11 @@ h2{
   margin-bottom: 50px;
   padding: 15px 5px;
 }
+.get-started-btn:hover{
+   color: rgb(255, 237, 99);
+  background-color: rgb(75, 44, 105);
+  transition: all 1s;
+}
 /* features component features component features component features component features component features component features component  */
 
 .features-span{
@@ -97,6 +111,10 @@ h2{
   border-radius: 3px;
   margin-top: 50px;
 } 
+.feature-item:hover{
+  background-color: rgb(85, 67, 130);
+  transition: all 1s;
+}
 .feature-icon{
   font-size: 20px;
   color: blueviolet;
@@ -115,5 +133,4 @@ h2{
   font-size: 17px;
   text-align: start;
   margin-left: 15px;
-
 }
